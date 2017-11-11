@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Grav is Running! and running on GitHub too!
-## You have installed **Grav** successfully
+## You have installed **Grav** successfully - super!
 
 Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
 
